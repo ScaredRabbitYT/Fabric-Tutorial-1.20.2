@@ -1,0 +1,99 @@
+{
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-10-31 18:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2023-10-31 18:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2023-10-31 18:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2023-10-31 18:49:58 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/amethyst_shard_from_blasting_amethyst_ingot": {
+    "criteria": {
+      "has_amethyst_ingot": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2023-10-31 18:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/copper_bricks": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-10-31 18:52:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/amethyst_shard_from_smelting_amethyst_ingot": {
+    "criteria": {
+      "has_amethyst_ingot": "2023-10-31 18:49:54 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}
